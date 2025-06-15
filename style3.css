@@ -1,0 +1,45 @@
+*{
+    background-color:#FAF9F6;
+}
+.heading
+{
+color:#1A237E;
+text-align: center;
+justify-content: center;
+font-size: xx-large;
+font-family: 'Poppins', 'Open Sans', 'Inter', sans-serif;
+}
+h1 {
+  color: #1A237E;
+}
+
+table {
+  margin: auto;
+  border-collapse: collapse;
+  width: 70%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+th {
+  background-color: #E3F2FD;
+  color: #1A237E;
+  padding: 30px;
+}
+
+td {
+  padding: 30px;
+  border: 1px solid #B0BEC5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
